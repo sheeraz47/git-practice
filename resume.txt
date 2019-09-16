@@ -1,10 +1,1 @@
-name: Kunkka
-occupation: Admiral
-objective: working with people 
-Location: New York
-
-Pakistan
-Sheeraz Saeed
-
-
-savings done 
+cybertek Selinium class
